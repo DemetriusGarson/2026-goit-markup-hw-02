@@ -69,3 +69,36 @@ body{
 }
 /* ! HEADER STYLE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX HEADER STYLE */
 
+/* ! HERO STYLE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! HERO STYLE */
+.hero-section{
+    background-color: #2e2f42;
+}
+
+.hero-section-heading{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align:center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+
+}
+
+.hero-section-button{
+    font-family: "Roboto" sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    cursor:pointer;
+
+}
+
+.hero-section-button:hover,
+.hero-section-button:focus{
+    background-color: #404BBF;
+
+}
+/* ! HERO STYLE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX HERO STYLE */
+
