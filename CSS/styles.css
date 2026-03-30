@@ -102,3 +102,20 @@ body{
 }
 /* ! HERO STYLE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX HERO STYLE */
 
+/* ! BENEFITS STYLE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! BENEFITS STYLE */
+
+/* .benefits-section{} */
+
+/* .benefits-section-heading{} */
+
+.benefits-section-list-heading{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2E2F42;
+
+}
+
+/* .benefits-section-list-description{} */
+
+/* ! BENEFITS STYLE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX BENEFITS STYLE */
