@@ -27,9 +27,9 @@ body{
 /* ! HEADER STYLE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! HEADER STYLE */
 /* .header-section{} */
 
-/* .header-navigation{} */
+/* .header-section-navigation{} */
 
-.header-logo{
+.header-section-navigation-logo{
     font-family: "Raleway" sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -40,15 +40,15 @@ body{
 
 }
 
-.header-logo-span{
+.header-section-navigation-logo-span{
     color: #2e2f42;
 }
 
-/* .header-navigation-list{} */
+/* .header-section-navigation-list{} */
 
-/* .header-navigation-list-item{} */
+/* .header-section-navigation-list-item{} */
 
-.header-navigation-list-reference{
+.header-section-navigation-list-reference{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -56,28 +56,28 @@ body{
     color: #2e2f42;
 }
 
-.header-navigation-list-reference:hover,
-.header-navigation-list-reference:focus{
+.header-section-navigation-list-reference:hover,
+.header-section-navigation-list-reference:focus{
     color: #404bbf;
 }
 
-.header-address{
+.header-section-address{
     font-style: normal;
 }
 
-/* .header-address-list{} */
+/* .header-section-address-list{} */
 
-/* .header-address-list-item{} */
+/* .header-section-address-list-item{} */
 
-.header-address-list-reference{
+.header-section-address-list-reference{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.header-address-list-reference:hover,
-.header-address-list-reference:focus{
+.header-section-address-list-reference:hover,
+.header-section-address-list-reference:focus{
     color: #404bbf;
 }
 /* ! HEADER STYLE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX HEADER STYLE */
@@ -229,7 +229,7 @@ body{
     background-color: #2e2f42;
 }
 
-.footer-logo{
+.footer-section-logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -239,11 +239,11 @@ body{
     color: #4d5ae5;
 }
 
-.footer-logo-span{
+.footer-section-logo-span{
     color: #f4f4fd;
 }
 
-.footer-description{
+.footer-section-description{
     line-height: 1.5;
     left: 0.02em;
     color: #F4F4FD;
